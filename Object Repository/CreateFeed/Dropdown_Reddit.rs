@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_Reddit</name>
+   <tag></tag>
+   <elementGuidId>54279fe0-4c62-40ca-93bb-0c13950c4966</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iebe86771-0323-11ef-b96d-a77f0e5b4859-row']/div/div/div/div/div/div/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.euiSuperSelectControl > div.euiFlexGroup.euiFlexGroup--gutterLarge.euiFlexGroup--alignItemsCenter.euiFlexGroup--directionRow.euiFlexGroup--responsive > div.euiFlexItem</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Select an option: Reddit, is selected&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1f363bf-0885-4c23-a51e-a8e55d45efe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiFlexItem</value>
+      <webElementGuid>dea51de8-e3b7-4346-a3ef-4c498330ff7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reddit</value>
+      <webElementGuid>8463bb6b-4090-4ef7-8d5c-ca6da5cbd1a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iebe86771-0323-11ef-b96d-a77f0e5b4859-row&quot;)/div[@class=&quot;euiFormRow__fieldWrapper&quot;]/div[@class=&quot;euiPopover euiPopover--anchorDownLeft euiPopover--displayBlock euiInputPopover euiSuperSelect&quot;]/div[@class=&quot;euiPopover__anchor&quot;]/div[1]/div[@class=&quot;euiFormControlLayout&quot;]/div[@class=&quot;euiFormControlLayout__childrenWrapper&quot;]/button[@class=&quot;euiSuperSelectControl&quot;]/div[@class=&quot;euiFlexGroup euiFlexGroup--gutterLarge euiFlexGroup--alignItemsCenter euiFlexGroup--directionRow euiFlexGroup--responsive&quot;]/div[@class=&quot;euiFlexItem&quot;]</value>
+      <webElementGuid>77d649f1-7d8f-4e51-8c3c-9dc9140e604d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iebe86771-0323-11ef-b96d-a77f0e5b4859-row']/div/div/div/div/div/div/button/div/div</value>
+      <webElementGuid>c8bbacd1-88e1-4726-82f1-a60963f20f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reddit'])[1]/following::div[2]</value>
+      <webElementGuid>383a8945-ac7c-41ca-9a3e-5022ff208671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SubReddits'])[1]/preceding::div[2]</value>
+      <webElementGuid>d75ce078-4406-4352-9a2a-69d1c3f12227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div</value>
+      <webElementGuid>cbf1c733-7a25-4065-b1a6-8f571adf2c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reddit' or . = 'Reddit')]</value>
+      <webElementGuid>ee360ca8-4786-4a53-962b-b7a2ffeaefd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

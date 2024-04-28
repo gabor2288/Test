@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_Edit_RedditFeed - YET TO BE FINISHED BROKEN REDDIT CREATION</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>979ebee2-5ca1-460c-86d2-3cc0ea903279</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c567a088-376b-49ff-8acb-87e8d565aebd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\gpetras\\\\Desktop\\\\Test.png'</defaultValue>
+      <description></description>
+      <id>c567a088-376b-49ff-8acb-87e8d565aebd</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

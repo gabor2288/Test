@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_Edit_DiscordFeed</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>b606eefd-6ac0-454e-a506-1b69b7e39419</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a35dbc3-35e3-408b-9ea9-5440832aa5f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\gpetras\\\\Desktop\\\\Test.png'</defaultValue>
+      <description></description>
+      <id>2a35dbc3-35e3-408b-9ea9-5440832aa5f3</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

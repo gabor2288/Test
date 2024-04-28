@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_Create_TwitterFeed</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>3358f389-965d-40cf-b02e-a1009c2bd3d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46f9de7e-947d-475b-b70a-a87a61de7f2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\gpetras\\\\Desktop\\\\Test.png'</defaultValue>
+      <description></description>
+      <id>46f9de7e-947d-475b-b70a-a87a61de7f2f</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_Delete_SteamFeed</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>f1bad8d5-42ff-4da9-bb23-db0cc3ee14cf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6b3bfa2-7b04-41aa-9860-31f898826efd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\gpetras\\\\Desktop\\\\Test.png'</defaultValue>
+      <description></description>
+      <id>d6b3bfa2-7b04-41aa-9860-31f898826efd</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

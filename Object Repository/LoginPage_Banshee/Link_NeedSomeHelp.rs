@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link_NeedSomeHelp</name>
+   <tag></tag>
+   <elementGuidId>1bbe02f3-1aa4-431f-a9a1-ac71d95b20cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div[3]/form/div[5]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.euiLink.euiLink--primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Need some help? External link (opens in a new tab or window)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>873084e3-bf3c-4adc-9472-615e7d004f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiLink euiLink--primary</value>
+      <webElementGuid>01cfe18c-3fd5-4a7a-bb1e-371ab9f4e95d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://electronic-arts.slack.com/archives/C01C64LAUF3</value>
+      <webElementGuid>0b093957-7c7a-40bb-84bf-6e66f7d055fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>7fb63f7c-0684-4ea4-9581-dc7023255133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>2a8f2aab-127f-44b1-8d35-83137c9083c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Need some help?(opens in a new tab or window)</value>
+      <webElementGuid>a51d52e0-f9dc-4113-87e1-70b0a61fba3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;euiPage euiPage--paddingMedium euiPage--grow&quot;]/div[@class=&quot;euiPageBody euiPageBody--borderRadiusNone&quot;]/div[@class=&quot;euiPanel euiPanel--paddingLarge euiPanel--borderRadiusMedium euiPanel--plain euiPanel--hasShadow euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter&quot;]/div[@class=&quot;euiPageContentBody&quot;]/form[@class=&quot;euiForm&quot;]/div[@class=&quot;euiFlexGroup euiFlexGroup--gutterLarge euiFlexGroup--alignItemsCenter euiFlexGroup--justifyContentSpaceBetween euiFlexGroup--directionRow euiFlexGroup--responsive&quot;]/div[@class=&quot;euiFlexItem&quot;]/div[@class=&quot;euiText euiText--extraSmall&quot;]/a[@class=&quot;euiLink euiLink--primary&quot;]</value>
+      <webElementGuid>f4934683-ec6d-46db-a9e3-0060af800215</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[3]/form/div[5]/div[2]/div/a</value>
+      <webElementGuid>c8d9510c-683d-470b-94ce-ae624ccfb358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::a[1]</value>
+      <webElementGuid>e9868a0c-87e5-48fe-8f23-8e24f903e8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::a[1]</value>
+      <webElementGuid>a0af902f-6ddd-463a-8835-a98cc8f99778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Need some help?']/parent::*</value>
+      <webElementGuid>d890f97e-eff0-4ca0-8bf5-7891693f5fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://electronic-arts.slack.com/archives/C01C64LAUF3')]</value>
+      <webElementGuid>00960d28-a3fa-45c7-a5c2-05ef2f7f9c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>1d01f569-19ab-4c4a-8708-9fb4eaeb9f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://electronic-arts.slack.com/archives/C01C64LAUF3' and (text() = 'Need some help?(opens in a new tab or window)' or . = 'Need some help?(opens in a new tab or window)')]</value>
+      <webElementGuid>b1e73eaa-0925-4aef-ad2c-0ab519051723</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

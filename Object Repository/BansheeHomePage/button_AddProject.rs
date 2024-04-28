@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AddProject</name>
+   <tag></tag>
+   <elementGuidId>fbeaa951-b95d-46ba-8bd5-b34191c6fd48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/main/div[2]/div/div/button/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.euiButtonEmpty.euiButtonEmpty--primary.euiButtonEmpty--small.euiFormControlLayout__append > span.euiButtonContent.euiButtonEmpty__content > span.euiButtonEmpty__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Project&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39897647-970f-461a-b7a1-9347f9ab30d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiButtonEmpty__text</value>
+      <webElementGuid>b17cec71-744a-4897-ad1f-65fc9801670c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Project</value>
+      <webElementGuid>5f9b2421-3fab-44fc-a5fa-4dcadb335eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;euiPage euiPage--paddingMedium euiPage--grow&quot;]/main[@class=&quot;euiPageBody euiPageBody--borderRadiusNone sc-bdfBwQ cIKpxU&quot;]/div[@class=&quot;euiFlexGroup euiFlexGroup--gutterLarge euiFlexGroup--directionRow euiFlexGroup--responsive&quot;]/div[@class=&quot;euiFlexItem&quot;]/div[@class=&quot;euiFormControlLayout euiFormControlLayout--group&quot;]/button[@class=&quot;euiButtonEmpty euiButtonEmpty--primary euiButtonEmpty--small euiFormControlLayout__append&quot;]/span[@class=&quot;euiButtonContent euiButtonEmpty__content&quot;]/span[@class=&quot;euiButtonEmpty__text&quot;]</value>
+      <webElementGuid>94dcd631-4f9d-4dcc-8ae7-5a5118ef20d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div[2]/div/div/button/span/span</value>
+      <webElementGuid>a5530f86-9a5e-4992-b7de-03dd2a34bfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[12]</value>
+      <webElementGuid>c2decf85-3caf-4645-bd08-260f852aedf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banshee'])[1]/following::span[13]</value>
+      <webElementGuid>3f5585d6-2a8f-4984-bfed-384a5831f654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dev - Stage Test'])[1]/preceding::span[1]</value>
+      <webElementGuid>de8c4c3d-cc74-4389-841c-de99180c457b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Project']/parent::*</value>
+      <webElementGuid>ba0a6dc9-7728-4e95-9d2b-4cd38368afe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/button/span/span</value>
+      <webElementGuid>21011b87-d066-4f4a-b736-8934327ab8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Project' or . = 'Add Project')]</value>
+      <webElementGuid>5cca2534-8b89-4c11-b317-75a2a3d5bbb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

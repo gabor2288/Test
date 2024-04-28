@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_Delete_YoutubeFeed</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>5a23c916-340b-4c2a-894f-93452bd422a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13b6923e-9169-4bc1-8bab-6f528235c8db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\gpetras\\\\Desktop\\\\Test.png'</defaultValue>
+      <description></description>
+      <id>13b6923e-9169-4bc1-8bab-6f528235c8db</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

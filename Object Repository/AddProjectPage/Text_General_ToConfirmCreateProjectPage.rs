@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_General_ToConfirmCreateProjectPage</name>
+   <tag></tag>
+   <elementGuidId>356d80f0-e278-441b-b586-f1bca1c14fea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/main/div/form/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.euiText.euiText--medium.euiText--constrainedWidth > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;General&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>365e1281-a07a-49b4-b00e-8aa06c6fc327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General</value>
+      <webElementGuid>b83aac62-b08b-4680-ae4b-65e3bd05b551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;euiPage euiPage--paddingMedium euiPage--grow&quot;]/main[@class=&quot;euiPageBody euiPageBody--borderRadiusNone sc-bdfBwQ cIKpxU&quot;]/div[@class=&quot;euiPanel euiPanel--paddingLarge euiPanel--borderRadiusMedium euiPanel--plain euiPanel--noShadow euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter&quot;]/form[@class=&quot;euiForm&quot;]/div[@class=&quot;euiText euiText--medium euiText--constrainedWidth&quot;]/h3[1]</value>
+      <webElementGuid>0c276792-b2a3-4b6b-9804-35451bd6e071</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/form/div[2]/h3</value>
+      <webElementGuid>3a2b360c-aa44-4135-abbc-fd818a62fc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max. file size 128 KB. Supported file types: .jpg and .png'])[1]/following::h3[1]</value>
+      <webElementGuid>a52c89f2-dd55-49bd-8d5c-dc6c3bf39ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose file'])[1]/following::h3[1]</value>
+      <webElementGuid>766a0f93-eca8-4c12-b972-76035551c60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::h3[1]</value>
+      <webElementGuid>68a3e080-bc0a-4585-a910-26072c555f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General']/parent::*</value>
+      <webElementGuid>e3b4bcae-536c-4691-af96-00db6a19e940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h3</value>
+      <webElementGuid>278c49f5-b832-4db1-80c6-f1c6db864940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'General' or . = 'General')]</value>
+      <webElementGuid>05f0f710-b082-48c2-8e5a-cc1dc3316e4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

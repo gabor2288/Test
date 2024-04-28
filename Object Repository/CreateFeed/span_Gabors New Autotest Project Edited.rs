@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gabors New Autotest Project Edited</name>
+   <tag></tag>
+   <elementGuidId>fe599003-af26-401e-bdb2-63b0a70c9093</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='i9f95c671-03bd-11ef-ae81-c31adc5d777eTitle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#i9f95c671-03bd-11ef-ae81-c31adc5d777eTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Gabor's New Autotest Project Edited Gabor's New Autotest Project Edited Test Project Edited. Access : Admin Private&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3db8aea-c9c4-400c-98e0-f9ace8eb51e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiTitle euiTitle--small euiCard__title</value>
+      <webElementGuid>b10ac264-92f5-4909-9924-12eb8e7d07dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>i9f95c671-03bd-11ef-ae81-c31adc5d777eTitle</value>
+      <webElementGuid>13890267-6729-4991-ab1b-605092ac642b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gabor's New Autotest Project Edited</value>
+      <webElementGuid>2015dd7b-5cb0-4570-9225-c504469943eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;i9f95c671-03bd-11ef-ae81-c31adc5d777eTitle&quot;)</value>
+      <webElementGuid>8feb4bd7-1c76-4c3f-896c-9b2526e22689</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='i9f95c671-03bd-11ef-ae81-c31adc5d777eTitle']</value>
+      <webElementGuid>bd7e950d-53d8-4853-82af-02ab65ee1929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div[4]/div[2]/a/div/div[2]/span</value>
+      <webElementGuid>8e99f1c6-7773-47b9-9060-5c282ab64e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/following::span[1]</value>
+      <webElementGuid>68661cfd-ba0e-45c5-9ba6-96f3b89a6b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::span[4]</value>
+      <webElementGuid>557c03ac-a759-40ed-8019-a4fc2385b8a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[2]/preceding::span[1]</value>
+      <webElementGuid>e452dc16-2467-425a-9c0c-3c5c0cfcb003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/div[2]/span</value>
+      <webElementGuid>4e458867-f4c7-43c9-8c68-fc63e345aaa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'i9f95c671-03bd-11ef-ae81-c31adc5d777eTitle' and (text() = concat(&quot;Gabor&quot; , &quot;'&quot; , &quot;s New Autotest Project Edited&quot;) or . = concat(&quot;Gabor&quot; , &quot;'&quot; , &quot;s New Autotest Project Edited&quot;))]</value>
+      <webElementGuid>660fc1a0-1391-4658-951c-a61b3f07f86e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

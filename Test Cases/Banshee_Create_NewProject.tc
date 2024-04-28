@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_Create_NewProject</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>948b60af-0b92-48c9-b7ca-6b1b3c381914</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20b3acea-cf59-4363-94b8-24a90f1efa11</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\gpetras\\\\Desktop\\\\Test.png'</defaultValue>
+      <description></description>
+      <id>20b3acea-cf59-4363-94b8-24a90f1efa11</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

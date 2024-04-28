@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LightMode</name>
+   <tag></tag>
+   <elementGuidId>08f7e465-af3c-4d2e-9041-5897cbaf791a</elementGuidId>
+   <imagePath>../../Desktop/circle.PNG</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>circle</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;euiPage euiPage--paddingMedium euiPage--grow&quot;]/div[@class=&quot;euiHeader euiHeader--default euiHeader--fixed&quot;]/div[@class=&quot;euiHeaderSection euiHeaderSection--dontGrow euiHeaderSection--left&quot;]/div[@class=&quot;euiHeaderSectionItem euiHeaderSectionItem--borderLeft&quot;]/button[@class=&quot;euiButtonEmpty euiButtonEmpty--text euiHeaderSectionItemButton&quot;]/span[@class=&quot;euiButtonContent euiButtonEmpty__content&quot;]/span[@class=&quot;euiButtonEmpty__text&quot;]/span[@class=&quot;euiHeaderSectionItemButton__content&quot;]/svg[@class=&quot;euiIcon euiIcon--medium euiIcon-isLoaded&quot;]/circle[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Desktop/circle.PNG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Toggle theme&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>b1f9294f-09c0-4bf2-8cbe-7b06f87957d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>c989921f-c3ce-458b-98da-15192ae3e058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>05167de8-d95b-45b6-b70f-5f7f7c5e8e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>8b2d0e09-3732-43b0-8ed9-ca6b8bb4880f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;euiPage euiPage--paddingMedium euiPage--grow&quot;]/div[@class=&quot;euiHeader euiHeader--default euiHeader--fixed&quot;]/div[@class=&quot;euiHeaderSection euiHeaderSection--dontGrow euiHeaderSection--left&quot;]/div[@class=&quot;euiHeaderSectionItem euiHeaderSectionItem--borderLeft&quot;]/button[@class=&quot;euiButtonEmpty euiButtonEmpty--text euiHeaderSectionItemButton&quot;]/span[@class=&quot;euiButtonContent euiButtonEmpty__content&quot;]/span[@class=&quot;euiButtonEmpty__text&quot;]/span[@class=&quot;euiHeaderSectionItemButton__content&quot;]/svg[@class=&quot;euiIcon euiIcon--medium euiIcon-isLoaded&quot;]/circle[1]</value>
+      <webElementGuid>fd2e24b4-e11c-412f-8242-2a81d8509579</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

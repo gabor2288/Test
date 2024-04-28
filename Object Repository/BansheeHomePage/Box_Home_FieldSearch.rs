@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Box_Home_FieldSearch</name>
+   <tag></tag>
+   <elementGuidId>6cb7c205-c0d8-4d70-9ed8-c119a66870c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.euiFieldSearch.euiFieldSearch--inGroup</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search projects&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c50dc110-2333-4012-8b5b-3f1f35af54fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>e335046b-1331-4e14-8afc-7b513e07adfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search projects</value>
+      <webElementGuid>f3cffb5d-3012-4b8a-a410-bc51f9301c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiFieldSearch euiFieldSearch--inGroup</value>
+      <webElementGuid>c0f1ca03-c7d2-4887-a213-e9299b37e583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Search projects</value>
+      <webElementGuid>7ba4708f-e96b-4441-b56c-05b5733d3f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;euiPage euiPage--paddingMedium euiPage--grow&quot;]/main[@class=&quot;euiPageBody euiPageBody--borderRadiusNone sc-bdfBwQ cIKpxU&quot;]/div[@class=&quot;euiFlexGroup euiFlexGroup--gutterLarge euiFlexGroup--directionRow euiFlexGroup--responsive&quot;]/div[@class=&quot;euiFlexItem&quot;]/div[@class=&quot;euiFormControlLayout euiFormControlLayout--group&quot;]/div[@class=&quot;euiFormControlLayout__childrenWrapper&quot;]/input[@class=&quot;euiFieldSearch euiFieldSearch--inGroup&quot;]</value>
+      <webElementGuid>34993e1e-26d5-4a15-8447-a3d6a531cfbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>be1d5eec-a256-4fdf-97c2-ab972e7b2746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div[2]/div/div/div/input</value>
+      <webElementGuid>22a13391-2098-4ede-ae12-a56cc466099e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>5c542da3-e423-4f0c-96ac-d598273551b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @placeholder = 'Search projects']</value>
+      <webElementGuid>d832e46d-8e64-4d22-b88c-ffaf43b9ddea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

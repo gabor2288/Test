@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_HelpSlack</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>bf0a043c-d5cf-413e-9f8f-9abd66fa302c</testCaseGuid>
+</TestCaseEntity>

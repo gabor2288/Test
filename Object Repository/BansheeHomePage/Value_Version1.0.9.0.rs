@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value_Version1.0.9.0</name>
+   <tag></tag>
+   <elementGuidId>676642e6-767a-40a1-a704-00c44371b101</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='i930740a1-0250-11ef-8510-dd960b6e10b3']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.euiTextColor.euiTextColor--subdued</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Version: 1.0.9.0&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a760fbf9-7a0a-41aa-a2bf-b33f3777e53b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiTextColor euiTextColor--subdued</value>
+      <webElementGuid>79669213-8871-424c-b73e-38b68ebbfbd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Version: 1.0.9.0</value>
+      <webElementGuid>71ca274e-b4a0-4498-8e27-33b0e3cff381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;i930740a1-0250-11ef-8510-dd960b6e10b3&quot;)/div[@class=&quot;euiCollapsibleNavGroup__children&quot;]/div[@class=&quot;euiFlexItem euiFlexItem--flexGrowZero&quot;]/div[@class=&quot;euiText euiText--extraSmall&quot;]/div[@class=&quot;euiTextAlign euiTextAlign--center&quot;]/div[@class=&quot;euiTextColor euiTextColor--subdued&quot;]</value>
+      <webElementGuid>73674a2d-8103-457a-8059-73514945c3d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='i930740a1-0250-11ef-8510-dd960b6e10b3']/div/div/div/div/div</value>
+      <webElementGuid>8507c665-acbb-4323-b014-4ca00f886ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dock navigation'])[1]/following::div[7]</value>
+      <webElementGuid>1645c4df-bad0-42e8-9a8c-14984f77d8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[8]</value>
+      <webElementGuid>143d78af-79e3-4009-8a0b-80eee9fed4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::div[2]</value>
+      <webElementGuid>1f11bb5c-23a1-4923-8a2d-c9ac39034964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banshee'])[1]/preceding::div[3]</value>
+      <webElementGuid>2d2b3cbe-3b66-4ee2-88f6-de7a1b3fd0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Version:']/parent::*</value>
+      <webElementGuid>1180d51b-d548-4c4c-8975-9f230b105283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div</value>
+      <webElementGuid>cbc967ca-8014-445a-ad4a-103a498b0106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Version: 1.0.9.0' or . = 'Version: 1.0.9.0')]</value>
+      <webElementGuid>3f50cefb-93ef-4c4d-9860-51a8f97e9d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

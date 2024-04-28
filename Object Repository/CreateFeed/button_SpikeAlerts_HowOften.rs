@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SpikeAlerts_HowOften</name>
+   <tag></tag>
+   <elementGuidId>ff7603ec-9e56-4735-89e4-dac61c372ea5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#idcfd3831-030f-11ef-9f41-9546ed6e597f-row > div.euiFormRow__fieldWrapper > div.euiPopover.euiPopover--anchorDownLeft.euiPopover--displayBlock.euiInputPopover.euiSuperSelect > div.euiPopover__anchor > div > div.euiFormControlLayout > div.euiFormControlLayout__childrenWrapper > button.euiSuperSelectControl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Select an option: Every hour, is selected&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01acfc23-e761-4ea6-a11c-9caeb5a3d3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e88aa6e-5772-4370-9898-cd3252612bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiSuperSelectControl</value>
+      <webElementGuid>c838ba17-372f-475b-867c-64f1dbf8293d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>755c0f7b-22fc-4226-8359-b26908662d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>undefined idec3c762-030f-11ef-9f41-9546ed6e597f</value>
+      <webElementGuid>ddae2f0c-31d6-48b4-9493-56d47dd9de43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select opt recurrence</value>
+      <webElementGuid>628393d9-d180-44c6-891d-14bc6121ddff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Every hour</value>
+      <webElementGuid>8defcb8b-bcff-454f-961a-3743926589b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idcfd3831-030f-11ef-9f41-9546ed6e597f-row&quot;)/div[@class=&quot;euiFormRow__fieldWrapper&quot;]/div[@class=&quot;euiPopover euiPopover--anchorDownLeft euiPopover--displayBlock euiInputPopover euiSuperSelect&quot;]/div[@class=&quot;euiPopover__anchor&quot;]/div[1]/div[@class=&quot;euiFormControlLayout&quot;]/div[@class=&quot;euiFormControlLayout__childrenWrapper&quot;]/button[@class=&quot;euiSuperSelectControl&quot;]</value>
+      <webElementGuid>1e6b2179-dc78-41f2-8d06-61460c3d2ac6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>b6ab75a8-1697-4a55-965c-a5856ea5b000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='idcfd3831-030f-11ef-9f41-9546ed6e597f-row']/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>d6ae52e2-0b41-47af-b216-f8f39baa1ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an option: Every hour, is selected'])[1]/following::button[1]</value>
+      <webElementGuid>ddc04d36-ff2d-40cd-bbe4-50140a7506a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurrence'])[1]/following::button[1]</value>
+      <webElementGuid>3d318f38-b81c-4e40-a5bc-a7d2e68d5458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/preceding::button[1]</value>
+      <webElementGuid>7c316dc1-cf28-464c-abfd-e143febc8670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slack Channels'])[1]/preceding::button[1]</value>
+      <webElementGuid>74bc9207-99a1-4058-8e17-9b1595fa89eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Every hour']/parent::*</value>
+      <webElementGuid>6a3f27ef-dbab-4b95-97fb-496a1976cc87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>c662a60f-82c2-45ba-a420-c39dc95d4c44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Every hour' or . = 'Every hour')]</value>
+      <webElementGuid>43ed8c67-0fc5-4ec1-9c1a-bfb0fd0c1292</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

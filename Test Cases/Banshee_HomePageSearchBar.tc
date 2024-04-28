@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging into Banshee</description>
+   <name>Banshee_HomePageSearchBar</name>
+   <tag>Banshee Login</tag>
+   <comment></comment>
+   <testCaseGuid>b57af976-b410-43e1-a89f-3fd10663c01e</testCaseGuid>
+</TestCaseEntity>
